@@ -11,7 +11,7 @@ var configProviders = [
     name: "vpei",
     type: "b64",
     urls: [
-      "https://raw.githubusercontent.com/vpei/Free-Node-Merge/main/o/node.txt"
+      "https://raw.githubusercontent.com/vpei/free-node-1/main/o/node.txt"
     ]
   },
   {
@@ -48,13 +48,6 @@ var configProviders = [
     urls: [
       "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/vmess.txt",
       "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/trojan.txt"
-    ]
-  },
-  {
-    name: "bardiafa",
-    type: "raw",
-    urls: [
-      "https://raw.githubusercontent.com/Bardiafa/Free-V2ray-Config/main/All_Configs_Sub.txt"
     ]
   },
   {
